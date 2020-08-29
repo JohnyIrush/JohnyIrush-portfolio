@@ -4185,6 +4185,10 @@ input, select, textarea {
 			color: #e2e2e2;
 		}
 
+		#mysql{
+			height: 60px;
+		}
+
 		#footer > section {
 			-moz-flex-basis: 50%;
 			-webkit-flex-basis: 50%;
