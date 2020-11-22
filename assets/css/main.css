@@ -4604,6 +4604,11 @@ input, select, textarea {
 		width: 200px;
 	}
 
+	#follow{
+		font-size: 22px;
+		font-family: Algerian;
+		color: pink;
+	}
 		#navPanel .links {
 			list-style: none;
 			padding-left: 0;
