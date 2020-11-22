@@ -4581,6 +4581,29 @@ input, select, textarea {
 		z-index: 10002;
 	}
 
+	.b-blue{
+		background-color: rgb(12, 12, 29);
+	}
+	.text-red{
+		color: red;
+	}
+	.text-blue{
+		color: rgb(68, 68, 190);
+	}
+
+	.text-purple{
+	color: rgb(85, 4, 85);
+	}
+
+	.bg-pink{
+		background-color: rgb(142, 133, 216);
+	}
+
+	.logo-size{
+		height: 200px;
+		width: 200px;
+	}
+
 		#navPanel .links {
 			list-style: none;
 			padding-left: 0;
